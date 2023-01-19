@@ -1,0 +1,31 @@
+html{
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(153, 102, 0), rgb(51, 33, 0));
+}
+
+.recipe {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px;
+}
+
+img {
+    float: right;
+    margin: 0 0 20px 20px;
+}
+.recipe p {
+    margin: 20px 0;
+}
+
+.recipe ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.recipe li {
+    margin-bottom: 10px;
+}

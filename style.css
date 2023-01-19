@@ -1,0 +1,31 @@
+html{
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(153, 102, 0), rgb(51, 33, 0));
+}
+
+h1 {
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+
+}
+
+
+.center-page {
+    justify-content: center;
+        position: relative;
+        margin: 10px;
+        height: 100vh;
+        box-sizing: border-box;
+        text-align: center;
+        
+}
+
+.flex {
+    padding: 20px;
+    display: flex;
+justify-content: center;
+}
+
